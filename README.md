@@ -37,4 +37,4 @@ java -jar target/jdbc-postgresql-example-1.0-SNAPSHOT-jar-with-dependencies.jar
 ## PostgreSQL ID & Password
 PostgreSQL의 ID와 Password는 코드 내부에 하드코딩 되어 있습니다...
 
-바꾸셔야 한다면, Props의 ID와 Password를 변경하여 실행해주세요.
+바꾸셔야 한다면, Props의 ID와 Password를 변경하고, 재컴파일하여 실행해주세요.
