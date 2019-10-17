@@ -41,7 +41,7 @@
         </plugins>
     </build>
 
-    <groupId>kr.co.yonsei.delab</groupId>
+    <groupId>kr.ac.yonsei.delab</groupId>
     <artifactId>jdbc-postgresql-example</artifactId>
     <version>1.0-SNAPSHOT</version>
 

@@ -9,8 +9,8 @@ import java.util.Properties;
 public class Main {
   private static final String DB_DRIVER = "org.postgresql.Driver";
   private static final String DB_CONNECTION_URL = "jdbc:postgresql://127.0.0.1/jdbc_example_university";
-  private static final String DB_USER = "postgres";
-  private static final String DB_PASSWORD = "qwer1234";
+  private static final String DB_USER = "totoro";
+  private static final String DB_PASSWORD = "totoropw";
 
   public static void main(String args[]) throws ClassNotFoundException, SQLException {
     Class.forName(DB_DRIVER);
